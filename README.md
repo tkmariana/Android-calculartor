@@ -1,3 +1,3 @@
 # Android-calculartor
 Calculator app for android
-![Screenshot](landscape.png)
+![Screenshot](landscape .png)
